@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kerma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kerma\\.nuget\\packages"
+    ]
+  }
+}
